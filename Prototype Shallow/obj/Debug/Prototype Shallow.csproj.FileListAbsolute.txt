@@ -1,0 +1,8 @@
+C:\Users\tacho\Desktop\Singleton\Prototype Shallow\obj\Debug\Prototype Shallow.csproj.AssemblyReference.cache
+C:\Users\tacho\Desktop\Singleton\Prototype Shallow\obj\Debug\Prototype Shallow.csproj.SuggestedBindingRedirects.cache
+C:\Users\tacho\Desktop\Singleton\Prototype Shallow\obj\Debug\Prototype Shallow.csproj.CoreCompileInputs.cache
+C:\Users\tacho\Desktop\Singleton\Prototype Shallow\bin\Debug\Prototype Shallow.exe.config
+C:\Users\tacho\Desktop\Singleton\Prototype Shallow\bin\Debug\Prototype Shallow.exe
+C:\Users\tacho\Desktop\Singleton\Prototype Shallow\bin\Debug\Prototype Shallow.pdb
+C:\Users\tacho\Desktop\Singleton\Prototype Shallow\obj\Debug\Prototype Shallow.exe
+C:\Users\tacho\Desktop\Singleton\Prototype Shallow\obj\Debug\Prototype Shallow.pdb
